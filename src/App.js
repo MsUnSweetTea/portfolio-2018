@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Does this happen? <code>src/App.js</code> and save to reload.
+          Up-ph <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
